@@ -1,0 +1,68 @@
+.flex {
+    display: flex;
+}
+
+.accueil {
+    background-color: lightblue;
+    min-height: 150vh; /* Ajouter une hauteur minimale */
+}
+
+
+.header {
+    width: 100vw; /* Utilise vw pour une largeur pleine */
+    height: auto; /* Utilise auto pour la hauteur */
+    flex-direction: column;
+    position: absolute; /* Fixer la position pour les boutons */
+    top: 0; /* Ajuster la position si nécessaire */
+}
+
+.menu-nav {
+    display: flex; /* Ajoute display: flex pour les éléments de menu */
+    flex-direction: row; /* Remet les boutons en ligne */
+    justify-content: center; /* Centrer les boutons horizontalement */
+    align-items: center; /* Centrer les boutons verticalement */
+    font-size: 4vw; /* Utilise vw pour la taille de la police */
+    width: 100vw; /* Utilise vw pour la largeur */
+    margin-top: 5vh; /* Supprime les marges */
+    padding: 0; /* Supprime les paddings */
+    list-style: none; /* Supprime les puces */
+}
+
+.menu-nav li {
+    margin: 0 1vw; /* Ajoute une marge entre les boutons */
+}
+
+.menu-nav li:hover {
+    transform: scale(1.2); /* Transformation plus douce */
+    transition: 0.5s;
+}
+
+.main {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+.titre {
+    color: #000000;
+    position: absolute;
+    top: 10vh; /* Utilise vh pour la position */
+    left: 50%; /* Centrer horizontalement */
+    transform: translateX(-50%); /* Ajuster pour centrer */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: auto; /* Laisser la largeur auto */
+    height: auto; /* Utilise auto pour la hauteur */
+    font-size: 6vw; /* Utilise vw pour la taille de la police */
+    text-align: center; /* Centrer le texte */
+    margin-top: 10vh;
+}
+
+.presentation{
+    font-family: "Cookie", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8vw;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    top: 25vh;
+}
