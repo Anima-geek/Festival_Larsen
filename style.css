@@ -64,5 +64,24 @@
     text-align: center;
     justify-content: center;
     position: absolute;
-    top: 45vh;
+    top: 25vh;
+}
+
+.video_chain{
+    position: absolute;
+    top: 35vh;
+    left: 10vw;
+}
+
+.coeur{
+    position: absolute;
+    top: 40vh;
+    left: 65vw;
+}
+
+.titre_coeur{
+    position: absolute;
+    font-size: 5vw;
+    top: 60vh;
+    left: 65vw;
 }
