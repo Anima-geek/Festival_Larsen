@@ -69,19 +69,19 @@
 
 .video_chain{
     position: absolute;
-    top: 25vh;
+    top: 35vh;
     left: 10vw;
 }
 
 .coeur{
     position: absolute;
-    top: 65vh;
+    top: 55vh;
     left: 20vw;
 }
 
 .titre_coeur{
     position: absolute;
     font-size: 10vw;
-    top: 95vh;
+    top: 85vh;
     left: 30vw;
 }
