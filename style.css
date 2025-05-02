@@ -75,13 +75,13 @@
 
 .coeur{
     position: absolute;
-    top: 40vh;
-    left: 65vw;
+    top: 65vh;
+    left: 55vw;
 }
 
 .titre_coeur{
     position: absolute;
-    font-size: 5vw;
-    top: 60vh;
-    left: 65vw;
+    font-size: 10vw;
+    top: 75vh;
+    left: 60vw;
 }
