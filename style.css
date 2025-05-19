@@ -69,8 +69,8 @@
 
 .video_chain{
     position: absolute;
-    top: 35vh;
-    left: 10vw;
+    top: 25vh;
+    left: 12vw;
 }
 
 .coeur{
@@ -88,7 +88,7 @@
 
 .pikachu{
     position: absolute;
-    top: 25vh;
+    top: 35vh;
     left: 20vw;
 }
 
@@ -96,5 +96,18 @@
     position: absolute;
     font-size: 10vw;
     top: 45vh;
+    left: 30vw;
+}
+
+.trex{
+    position: absolute;
+    top: 55vh;
+    left : 20vw;
+}
+
+.titre_trex{
+    position: absolute;
+    font-size: 10vw;
+    top: 85vh;
     left: 30vw;
 }
