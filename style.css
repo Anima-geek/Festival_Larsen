@@ -75,13 +75,26 @@
 
 .coeur{
     position: absolute;
-    top: 65vh;
-    left: 18vw;
+    top: 55vh;
+    left: 20vw;
 }
 
 .titre_coeur{
     position: absolute;
     font-size: 10vw;
-    top: 95vh;
-    left: 25vw;
+    top: 85vh;
+    left: 30vw;
+}
+
+.pikachu{
+    position: absolute;
+    top: 35vh;
+    left: 10vw;
+}
+
+.titre_pikachu{
+    position: absolute;
+    font-size: 10vw;
+    top: 85vh;
+    left: 30vw;
 }
