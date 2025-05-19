@@ -88,26 +88,26 @@
 
 .pikachu{
     position: absolute;
-    top: 25vh;
+    top: 15vh;
     left: 20vw;
 }
 
 .titre_pikachu{
     position: absolute;
     font-size: 10vw;
-    top: 45vh;
+    top: 35vh;
     left: 30vw;
 }
 
 .trex{
     position: absolute;
     top: 55vh;
-    left : 20vw;
+    left: 15vw;
 }
 
 .titre_trex{
     position: absolute;
     font-size: 10vw;
     top: 85vh;
-    left: 30vw;
+    left: 25vw;
 }
