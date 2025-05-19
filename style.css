@@ -69,7 +69,7 @@
 
 .video_chain{
     position: absolute;
-    top: 25vh;
+    top: 20vh;
     left: 12vw;
 }
 
@@ -83,7 +83,7 @@
     position: absolute;
     font-size: 10vw;
     top: 85vh;
-    left: 30vw;
+    left: 25vw;
 }
 
 .pikachu{
