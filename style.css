@@ -95,19 +95,19 @@
 .titre_pikachu{
     position: absolute;
     font-size: 10vw;
-    top: 35vh;
-    left: 30vw;
+    top: 40vh;
+    left: 25vw;
 }
 
 .trex{
     position: absolute;
-    top: 55vh;
+    top: 60vh;
     left: 15vw;
 }
 
 .titre_trex{
     position: absolute;
     font-size: 10vw;
-    top: 85vh;
+    top: 90vh;
     left: 25vw;
 }
