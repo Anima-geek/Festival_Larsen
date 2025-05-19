@@ -88,13 +88,13 @@
 
 .pikachu{
     position: absolute;
-    top: 35vh;
-    left: 10vw;
+    top: 25vh;
+    left: 20vw;
 }
 
 .titre_pikachu{
     position: absolute;
     font-size: 10vw;
-    top: 85vh;
+    top: 45vh;
     left: 30vw;
 }
