@@ -111,3 +111,16 @@
     top: 90vh;
     left: 20vw;
 }
+
+.stitch{
+    position: absolute;
+    top: 110vh;
+    left: 15vw;
+}
+
+.titre_stitch{
+    position: absolute;
+    font-size: 10vw;
+    top : 140vh;
+    left: 20vw;
+}
