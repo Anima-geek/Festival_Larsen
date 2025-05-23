@@ -81,8 +81,7 @@
 
 .titre_coeur{
     position: absolute;
-    display: inline-block;
-    white-space: nowrap;
+    display: inline;
     font-size: 10vw;
     top: 85vh;
     left: 15vw;
@@ -96,8 +95,7 @@
 
 .titre_pikachu{
     position: absolute;
-    display: inline-block;
-    white-space: nowrap;
+    display: inline;
     font-size: 10vw;
     top: 45vh;
     left: 25vw;
@@ -111,8 +109,7 @@
 
 .titre_trex{
     position: absolute;
-    display: inline-block;
-    white-space: nowrap;
+    display: inline;
     font-size: 10vw;
     top: 90vh;
     left: 20vw;
@@ -126,8 +123,7 @@
 
 .titre_stitch{
     position: absolute;
-    display: inline-block;
-    white-space: nowrap;
+    display: inline;
     font-size: 10vw;
     top : 140vh;
     left: 20vw;
@@ -141,8 +137,7 @@
 
 .titre_spiderman{
     position: absolute;
-    display: inline-block;
-    white-space: nowrap;
+    display: inline;
     font-size: 10vw;
     top : 190vh;
     left: 20vw;
