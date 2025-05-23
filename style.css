@@ -125,6 +125,19 @@
     left: 20vw;
 }
 
+.spiderman{
+    position: absolute;
+    top: 160vh;
+    left: 15vw;
+}
+
+.titre_spiderman{
+    position: absolute;
+    font-size: 10vw;
+    top : 190vh;
+    left: 20vw;
+}
+
 .macrame{
     position: absolute;
     top: 20vh;
