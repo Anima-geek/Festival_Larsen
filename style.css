@@ -143,8 +143,14 @@
     left: 20vw;
 }
 
-.macrame{
+.affiche{
     position: absolute;
     top: 20vh;
+    left: 12vw;
+}
+
+.macrame{
+    position: absolute;
+    top: 50vh;
     left: 12vw;
 }
