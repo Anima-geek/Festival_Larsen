@@ -146,23 +146,23 @@
 .affiche{
     position: absolute;
     top: 20vh;
-    left: 20vw;
+    left: 30vw;
 }
 
 .macrame{
     position: absolute;
-    top: 50vh;
+    top: 40vh;
     left: 12vw;
 }
 
 .cercle_magique{
     position: absolute;
-    top: 100vh;
-    left : 20vw;
+    top: 120vh;
+    left: 12vw;
 }
 
 .bride{
     position: absolute;
-    top: 120vh;
-    left : 20vw;
+    top: 160vh;
+    left: 12vw;
 }
